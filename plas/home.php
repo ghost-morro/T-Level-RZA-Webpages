@@ -8,8 +8,6 @@ include 'topbar.php';
    
     <h1 class="title">Ridget Zoo Adventures   </h1>
 
-    <p>Super Saiyan 4 (スーパーサイヤ人4, Sūpā Saiya-jin Fō?) is a fictional transformation in the Dragon Ball franchise. It is a powerful form that combines the primal power of the Great Ape with the refined control of a Super Saiyan. This transformation is unique to the Dragon Ball GT series and is not part of the original manga created by Akira Toriyama.</p>
-
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu magna ut purus lobortis bibendum non nec ex. Maecenas sollicitudin, sapien in elementum scelerisque, urna erat tincidunt magna, ac rutrum quam velit eget ex. Proin vel finibus ex. Cras consequat maximus turpis in varius. Curabitur at pharetra leo. Donec commodo nec lectus eget porttitor. Nullam scelerisque porttitor diam, sed efficitur nisi elementum sit amet. In posuere sit amet ligula sit amet pretium. Vestibulum et eros ipsum. In lacus est, pellentesque quis massa et, efficitur vehicula nisl. Suspendisse accumsan imperdiet tellus. Duis gravida nisi a sapien volutpat finibus. Integer faucibus feugiat diam non imperdiet. Vestibulum mattis malesuada lacus vel interdum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi a quam turpis.</p>
 
     
