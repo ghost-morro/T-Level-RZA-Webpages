@@ -34,6 +34,3 @@ The aim of the project was to design and develop a functional website that allow
 
 This project was developed to strengthen my understanding of both front end and back end web development, while applying practical programming and design skills in a realistic scenario.
 
-## Author
-
-Irfan Choudhury
